@@ -1,0 +1,19 @@
+C:\Users\pc\Desktop\Vege\Sourcecode\TreInformationerNy\TreInformationerNy\bin\Debug\TreInformationerNy.exe.config
+C:\Users\pc\Desktop\Vege\Sourcecode\TreInformationerNy\TreInformationerNy\bin\Debug\TreInformationerNy.exe
+C:\Users\pc\Desktop\Vege\Sourcecode\TreInformationerNy\TreInformationerNy\bin\Debug\TreInformationerNy.pdb
+C:\Users\pc\Desktop\Vege\Sourcecode\TreInformationerNy\TreInformationerNy\obj\Debug\TreInformationerNy.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\Vege\Sourcecode\TreInformationerNy\TreInformationerNy\obj\Debug\TreInformationerNy.exe
+C:\Users\pc\Desktop\Vege\Sourcecode\TreInformationerNy\TreInformationerNy\obj\Debug\TreInformationerNy.pdb
+C:\Users\pc\Desktop\Individuel\2 Netværk\NetværkDag2\TreInformationerNy\bin\Debug\TreInformationerNy.exe.config
+C:\Users\pc\Desktop\Individuel\2 Netværk\NetværkDag2\TreInformationerNy\obj\Debug\TreInformationerNy.exe
+C:\Users\pc\Desktop\Individuel\2 Netværk\NetværkDag2\TreInformationerNy\obj\Debug\TreInformationerNy.pdb
+C:\Users\pc\Desktop\Individuel\2 Netværk\NetværkDag2\TreInformationerNy\bin\Debug\TreInformationerNy.exe
+C:\Users\pc\Desktop\Individuel\2 Netværk\NetværkDag2\TreInformationerNy\bin\Debug\TreInformationerNy.pdb
+C:\Users\pc\Desktop\Individuel\2 Netværk\NetværkDag2\TreInformationerNy\obj\Debug\TreInformationerNy.csprojResolveAssemblyReference.cache
+C:\Kasper\Færdige projekter\Emneopdelt opgaver til eksamensforberedelse\2 Netværk\NetværkDag2\TreInformationerNy\bin\Debug\TreInformationerNy.exe.config
+C:\Kasper\Færdige projekter\Emneopdelt opgaver til eksamensforberedelse\2 Netværk\NetværkDag2\TreInformationerNy\bin\Debug\TreInformationerNy.exe
+C:\Kasper\Færdige projekter\Emneopdelt opgaver til eksamensforberedelse\2 Netværk\NetværkDag2\TreInformationerNy\bin\Debug\TreInformationerNy.pdb
+C:\Kasper\Færdige projekter\Emneopdelt opgaver til eksamensforberedelse\2 Netværk\NetværkDag2\TreInformationerNy\obj\Debug\TreInformationerNy.csprojAssemblyReference.cache
+C:\Kasper\Færdige projekter\Emneopdelt opgaver til eksamensforberedelse\2 Netværk\NetværkDag2\TreInformationerNy\obj\Debug\TreInformationerNy.csproj.CoreCompileInputs.cache
+C:\Kasper\Færdige projekter\Emneopdelt opgaver til eksamensforberedelse\2 Netværk\NetværkDag2\TreInformationerNy\obj\Debug\TreInformationerNy.exe
+C:\Kasper\Færdige projekter\Emneopdelt opgaver til eksamensforberedelse\2 Netværk\NetværkDag2\TreInformationerNy\obj\Debug\TreInformationerNy.pdb
